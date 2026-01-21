@@ -1,0 +1,17 @@
+C:\2024435\AuthServiceAngel\src\AuthServiceAngel.Persistence\bin\Debug\net8.0\AuthServiceAngel.Persistence.deps.json
+C:\2024435\AuthServiceAngel\src\AuthServiceAngel.Persistence\bin\Debug\net8.0\AuthServiceAngel.Persistence.dll
+C:\2024435\AuthServiceAngel\src\AuthServiceAngel.Persistence\bin\Debug\net8.0\AuthServiceAngel.Persistence.pdb
+C:\2024435\AuthServiceAngel\src\AuthServiceAngel.Persistence\bin\Debug\net8.0\AuthServiceAngel.Application.dll
+C:\2024435\AuthServiceAngel\src\AuthServiceAngel.Persistence\bin\Debug\net8.0\AuthServiceAngel.Domain.dll
+C:\2024435\AuthServiceAngel\src\AuthServiceAngel.Persistence\bin\Debug\net8.0\AuthServiceAngel.Domain.pdb
+C:\2024435\AuthServiceAngel\src\AuthServiceAngel.Persistence\bin\Debug\net8.0\AuthServiceAngel.Application.pdb
+C:\2024435\AuthServiceAngel\src\AuthServiceAngel.Persistence\obj\Debug\net8.0\AuthServiceAngel.Persistence.csproj.AssemblyReference.cache
+C:\2024435\AuthServiceAngel\src\AuthServiceAngel.Persistence\obj\Debug\net8.0\AuthServiceAngel.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\2024435\AuthServiceAngel\src\AuthServiceAngel.Persistence\obj\Debug\net8.0\AuthServiceAngel.Persistence.AssemblyInfoInputs.cache
+C:\2024435\AuthServiceAngel\src\AuthServiceAngel.Persistence\obj\Debug\net8.0\AuthServiceAngel.Persistence.AssemblyInfo.cs
+C:\2024435\AuthServiceAngel\src\AuthServiceAngel.Persistence\obj\Debug\net8.0\AuthServiceAngel.Persistence.csproj.CoreCompileInputs.cache
+C:\2024435\AuthServiceAngel\src\AuthServiceAngel.Persistence\obj\Debug\net8.0\AuthServ.F2B85B8A.Up2Date
+C:\2024435\AuthServiceAngel\src\AuthServiceAngel.Persistence\obj\Debug\net8.0\AuthServiceAngel.Persistence.dll
+C:\2024435\AuthServiceAngel\src\AuthServiceAngel.Persistence\obj\Debug\net8.0\refint\AuthServiceAngel.Persistence.dll
+C:\2024435\AuthServiceAngel\src\AuthServiceAngel.Persistence\obj\Debug\net8.0\AuthServiceAngel.Persistence.pdb
+C:\2024435\AuthServiceAngel\src\AuthServiceAngel.Persistence\obj\Debug\net8.0\ref\AuthServiceAngel.Persistence.dll

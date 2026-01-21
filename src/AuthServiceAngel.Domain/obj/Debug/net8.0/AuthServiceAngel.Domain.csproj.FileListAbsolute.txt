@@ -1,0 +1,11 @@
+C:\2024435\AuthServiceAngel\src\AuthServiceAngel.Domain\bin\Debug\net8.0\AuthServiceAngel.Domain.deps.json
+C:\2024435\AuthServiceAngel\src\AuthServiceAngel.Domain\bin\Debug\net8.0\AuthServiceAngel.Domain.dll
+C:\2024435\AuthServiceAngel\src\AuthServiceAngel.Domain\bin\Debug\net8.0\AuthServiceAngel.Domain.pdb
+C:\2024435\AuthServiceAngel\src\AuthServiceAngel.Domain\obj\Debug\net8.0\AuthServiceAngel.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\2024435\AuthServiceAngel\src\AuthServiceAngel.Domain\obj\Debug\net8.0\AuthServiceAngel.Domain.AssemblyInfoInputs.cache
+C:\2024435\AuthServiceAngel\src\AuthServiceAngel.Domain\obj\Debug\net8.0\AuthServiceAngel.Domain.AssemblyInfo.cs
+C:\2024435\AuthServiceAngel\src\AuthServiceAngel.Domain\obj\Debug\net8.0\AuthServiceAngel.Domain.csproj.CoreCompileInputs.cache
+C:\2024435\AuthServiceAngel\src\AuthServiceAngel.Domain\obj\Debug\net8.0\AuthServiceAngel.Domain.dll
+C:\2024435\AuthServiceAngel\src\AuthServiceAngel.Domain\obj\Debug\net8.0\refint\AuthServiceAngel.Domain.dll
+C:\2024435\AuthServiceAngel\src\AuthServiceAngel.Domain\obj\Debug\net8.0\AuthServiceAngel.Domain.pdb
+C:\2024435\AuthServiceAngel\src\AuthServiceAngel.Domain\obj\Debug\net8.0\ref\AuthServiceAngel.Domain.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wBdBUhxQeADo43T8gND+9r/2J0D6dOiNeYCEikiZD7g=",
+  "Source": "AuthServiceAngel.Api",
+  "BasePath": "_content/AuthServiceAngel.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
