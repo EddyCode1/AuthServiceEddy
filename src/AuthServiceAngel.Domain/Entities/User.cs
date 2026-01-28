@@ -14,7 +14,7 @@ public class User
 
     [Required(ErrorMessage = "El apellido es obligatorio.")]
     [MaxLength(25, ErrorMessage = "El apellido no puede exceder los 25 caracteres.")]
-    public string Surname { get; set; } = string.Empty;
+    public string SurName { get; set; } = string.Empty;
 
     [Required(ErrorMessage = "El nombre de usuario es obligatorio.")]
     [MaxLength(25, ErrorMessage = "El nombre de usuario no puede exceder los 25 caracteres.")]

@@ -4,7 +4,8 @@ namespace AuthServiceAngel.Domain.Interfaces;
 
 public interface IUserRepository
 {
-    Task<User> GetByIdAsync(User user);
+    Task<User> CreateAsync(User user);
+    //Task<User> GetByIdAsync(User user);
     Task<User> GetByIdAsync(string id);
     Task<User?> GetByEmailAsync(string email);
     Task<User?> GetByUserNameAsync(string userName);
@@ -12,7 +13,7 @@ public interface IUserRepository
     Task<User?> GetByPasswordResetTokenAsync(string token);
     Task<bool> ExistsByEmailAsync(string email);
     Task<bool> ExistsByUserNameAsync(string userName);
-    Task<User> updateAsync(User user);
+    Task<User> UpdateAsync(User user);
     Task<bool> DeleteAsync(string id);
-    Task updateUserRoleAsync(string userId, string roleId); 
+    Task UpdateUserRoleAsync(string userId, string roleId); 
 }
