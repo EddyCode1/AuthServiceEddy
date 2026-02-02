@@ -70,9 +70,9 @@ public class UserRepository(ApplicationDbContext context) : IUserRepository
  
     public async Task<User?> CreateAsync(User user)
     {
-        context.Users.Add(user); 
-        await context.SaveChangesAsync(); 
-        return await GetByIdAsync(user.Id); 
+        context.Users.Add(user);
+        await context.SaveChangesAsync();
+        return await GetByIdAsync(user.Id);
     }
 
     public async Task<User> UpdateAsync(User user)

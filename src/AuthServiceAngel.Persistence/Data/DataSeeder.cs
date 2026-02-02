@@ -2,7 +2,7 @@ using AuthServiceAngel.Domain.Entities;
 using AuthServiceAngel.Application.Service; 
 using AuthServiceAngel.Domain.Constants; 
 using Microsoft.EntityFrameworkCore;
-using UserRole = AuthServiceAngel.Domain.Entities.UserRole;
+
 
 namespace AuthServiceAngel.Persistence.Data; 
 
@@ -67,7 +67,7 @@ public static class DataSeeder
                     },
                     UserRoles =
                     [
-                        new UserRole
+                        new Domain.Entities.UserRole
                         {
                             Id = userRoleId, 
                             UserId = userId,

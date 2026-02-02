@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AuthServiceAngel.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e8e7ccb212395b7bf3d71c8dab0e966f7b710798")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d126de1a0fdd6542b060943e3a8376191bf67fa")]
 [assembly: System.Reflection.AssemblyProductAttribute("AuthServiceAngel.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AuthServiceAngel.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

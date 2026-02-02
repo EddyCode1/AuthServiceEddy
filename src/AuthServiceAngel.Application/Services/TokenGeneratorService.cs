@@ -4,12 +4,12 @@ namespace AuthServiceAngel.Application.Service;
 
 public static class TokeGenertorService
 {
-    public static string GenerateEmailVerificationToken()
+    public static string GenerateEmailVerificationToken(int v)
     {
         return GenerateEmailVerificationToken(32);
     }
 
-    public static string GeneratePasswordResetToken()
+    public static string GeneratePasswordResetToken(int v)
     {
         return GeneratePasswordResetToken(32);
     }
